@@ -2,7 +2,7 @@
  /// @file    namespace.cc
  /// @author  lemon(haohb13@gmail.com)
  /// @date    2016-04-15 03:14:09
- ///
+ ///haochung
  
 #include <iostream>
 using std::cout;
